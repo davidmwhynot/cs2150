@@ -1,7 +1,6 @@
 # Exercises 1
-## David Whynot
-## 5/3/2019
-
+### David Whynot - 5/3/2019
+### CS 2150
 
 
 # Instructions
