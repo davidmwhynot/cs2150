@@ -1,5 +1,5 @@
 # Instructions
-Do Exercises 1- #12, 14, 16, 18, 20 on pages 107 - 109 of C++ Programming. Submit your work as a single Microsoft Word file.
+Do Exercises 1 - #12, 14, 16, 18, 20 on pages 107 - 109 of C++ Programming. Submit your work as a single Microsoft Word file.
 
 
 
