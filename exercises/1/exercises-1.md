@@ -1,7 +1,7 @@
 # Exercises 1
 ### David Whynot - 5/3/2019
 ### CS 2150
-
+You can find the source code for this document and the exercises [here](https://github.com/davidmwhynot/cs2150/tree/master/exercises/1).
 
 # Instructions
 Do Exercises 1 - #12, 14, 16, 18, 20 on pages 107 - 109 of C++ Programming. Submit your work as a single Microsoft Word file.
