@@ -1,3 +1,9 @@
+// Assignment 1
+// David Whynot
+// 5/26/2019
+// CS 2150
+// Chapter 3 - Exercise 5 - page 183
+
 #include <string>
 #include <iostream>
 #include <fstream>
