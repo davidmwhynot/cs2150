@@ -46,9 +46,9 @@ int main() {
 	// a
 	// exercise26a();
 	// b
-	exercise26b();
+	// exercise26b();
 	// c
-	exercise26c();
+	// exercise26c();
 	// d
 	exercise26d();
 
@@ -253,5 +253,21 @@ void exercise26c() {
 
 void exercise26d() {
 	// Exercise #26 d
+	int n = 11;
 
+	switch (n % 10)
+	case 2:
+	{
+	case 4:
+	case 6:
+	case 8:
+		cout << "Even";
+		break;
+	case 1:
+	case 3:
+	case 5:
+	case 7:
+		cout << "Odd";
+		break;
+	}
 }

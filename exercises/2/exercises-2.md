@@ -209,6 +209,7 @@ case 0:
 	break;
 }
 ```
+This switch statement is valid.
 
 #### d.
 ```c++
@@ -228,4 +229,4 @@ case 7:
 	break;
 }
 ```
-This switch statement is valid.
+Despite its... unconventional syntax, this switch statement is completely valid and compiles just fine.
