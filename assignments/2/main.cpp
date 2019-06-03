@@ -6,6 +6,7 @@
 
 #include <string>
 #include <iostream>
+#include <regex>
 
 using namespace std;
 
@@ -61,11 +62,11 @@ int main() {
 }
 
 bool validateUserInput(string input) {
-	int inputLength;
+	bool isInputValid;
 
-	inputLength = input.length();
+	isInputValid = validateUserInput(input, regex("^[A-Za-z ]{7,}$"));
 
-	cout << endl << input << endl << inputLength << endl;
+	cout << endl << isInputValid << endl;
 
 	return false;
 }
